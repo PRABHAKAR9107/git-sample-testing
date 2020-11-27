@@ -10,7 +10,8 @@
 
 #file
 *.txt
-public/*.txt
+*.svg
+
 # testing*
 /coverage
 
