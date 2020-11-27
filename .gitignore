@@ -11,6 +11,7 @@
 #file
 *.txt
 
+# image
 src/*.svg
 
 # testing*
