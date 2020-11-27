@@ -10,7 +10,8 @@
 
 #file
 *.txt
-*.svg
+
+src/*.svg
 
 # testing*
 /coverage
