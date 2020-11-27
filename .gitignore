@@ -10,8 +10,8 @@
 
 #file
 *.txt
-
-# testing
+public/*.txt
+# testing*
 /coverage
 
 # production
